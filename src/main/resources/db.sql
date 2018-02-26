@@ -42,7 +42,7 @@ CREATE TABLE `category` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8;
 
-/*Data for the table `category` */
+
 
 insert  into `category`(`id`,`name`) values 
 (1,'Category 1'),
